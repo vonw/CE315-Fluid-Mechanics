@@ -3,7 +3,7 @@
 ###This is a repository of teaching materials for Fluid Mechanics (CE 315) at Washington State University.
 
 ####IPython Notebooks
-  [Example of a Double Pendulum](Double%20Pendulum.ipynb)
+  [Example of a Double Pendulum](http://nbviewer.ipython.org/urls/raw.github.com/vonw/CE315---Fluid-Mechanics/master/Double%2520Pendulum.ipynb)
 
 <p>Von P. Walden, Professor</p>
 <p>Laboratory for Atmospheric Research</p>
