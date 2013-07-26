@@ -1,4 +1,15 @@
-CE315---Fluid-Mechanics
-=======================
+#Fluid Mechanics (CE 315)
 
-Repository of teaching materials for CE 315 (Fluid Mechanics) at Washington State University
+###This is a repository of teaching materials for Fluid Mechanics (CE 315) at Washington State University.
+
+####IPython Notebooks
+  [PAERI plots from Summit Station, Greenland](PAERI plots at Summit.ipynb)
+
+<p>Von P. Walden, Professor</p>
+<p>Laboratory for Atmospheric Research</p>
+<p>Department of Civil and Environmental Engineering</p>
+<p>Washington State University</p>
+<p>Pullman, WA  99164-2910</p>
+<p>509-335-5645 (office)</p>
+<p>v.walden@wsu.edu</p>
+
