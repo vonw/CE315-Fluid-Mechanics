@@ -3,7 +3,7 @@
 ###This is a repository of teaching materials for Fluid Mechanics (CE 315) at Washington State University.
 
 ####IPython Notebooks
-  [PAERI plots from Summit Station, Greenland](http://nbviewer.ipython.org/urls/raw/vonw/CE315---Fluid-Mechanics/blob/master/PAERIplotsAtSummit.ipynb)
+  [Example of a Double Pendulum](Double%20Pendulum.ipynb)
 
 <p>Von P. Walden, Professor</p>
 <p>Laboratory for Atmospheric Research</p>
